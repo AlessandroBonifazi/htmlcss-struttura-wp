@@ -3,3 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.debug-mode {
+    border: 2px solid black;
+}
+
+.container {
+    width: 80%;
+    height: 95%;
+    margin: 25px auto;
+}
+
+header {
+    height: 85px;
+    background-color: rgb(191, 124, 253);
+}
+
+.content {
+    height: 360px;
+    background-color: burlywood;
+    margin-top: 20px;
+}
+
+footer {
+    height: 40px;
+    background-color: darkblue;
+    margin-top: 8px;
+}
